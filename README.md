@@ -21,4 +21,6 @@ make
 
 ### Results
 
-In this task, we paralelly calculated the integral of functions (such as Ackley's, Langermann, De Jong's) on CUDA using the usual method of cells (a generalization of the method of rectangles) and tested the results. Details in report.
+In this task, we paralelly calculated the integral of functions (such as Ackley's, Langermann, De Jong's) on CUDA using the usual method of cells (a generalization of the method of rectangles) and tested the results.
+![image](https://github.com/user-attachments/assets/90b27794-5580-4364-9845-875ed7cc5e4d)
+
