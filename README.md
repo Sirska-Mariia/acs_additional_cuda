@@ -22,9 +22,3 @@ make
 ### Results
 
 In this task, we paralelly calculated the integral of functions (such as Ackley's, Langermann, De Jong's) on CUDA using the usual method of cells (a generalization of the method of rectangles) and tested the results. Details in report.
-
-# Additional tasks
-ослідити залежність часу виконання від кількості потоків на різних
-комп’ютерах і з різними наборами параметрів. Порівняти результати
-та проаналізувати їх. знаходиться в звіті
-
